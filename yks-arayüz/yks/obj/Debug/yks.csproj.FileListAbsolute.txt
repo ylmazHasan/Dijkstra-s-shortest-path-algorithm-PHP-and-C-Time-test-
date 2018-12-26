@@ -1,0 +1,10 @@
+c:\users\yyhas\onedrive\belgeler\visual studio 2013\Projects\yks\yks\bin\Debug\yks.exe.config
+c:\users\yyhas\onedrive\belgeler\visual studio 2013\Projects\yks\yks\bin\Debug\yks.exe
+c:\users\yyhas\onedrive\belgeler\visual studio 2013\Projects\yks\yks\bin\Debug\yks.pdb
+c:\users\yyhas\onedrive\belgeler\visual studio 2013\Projects\yks\yks\obj\Debug\yks.csprojResolveAssemblyReference.cache
+c:\users\yyhas\onedrive\belgeler\visual studio 2013\Projects\yks\yks\obj\Debug\yks.Form1.resources
+c:\users\yyhas\onedrive\belgeler\visual studio 2013\Projects\yks\yks\obj\Debug\yks.Properties.Resources.resources
+c:\users\yyhas\onedrive\belgeler\visual studio 2013\Projects\yks\yks\obj\Debug\yks.csproj.GenerateResource.Cache
+c:\users\yyhas\onedrive\belgeler\visual studio 2013\Projects\yks\yks\obj\Debug\yks.exe
+c:\users\yyhas\onedrive\belgeler\visual studio 2013\Projects\yks\yks\obj\Debug\yks.pdb
+C:\Users\yyhas\OneDrive\Belgeler\visual studio 2013\Projects\yks\yks\obj\Debug\yks.Form2.resources

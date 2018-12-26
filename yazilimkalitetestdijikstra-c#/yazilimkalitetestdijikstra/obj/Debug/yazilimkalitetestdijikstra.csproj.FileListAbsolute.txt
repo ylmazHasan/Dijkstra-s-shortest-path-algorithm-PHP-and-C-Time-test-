@@ -1,0 +1,9 @@
+c:\users\yyhas\onedrive\belgeler\visual studio 2013\Projects\yazilimkalitetestdijikstra\yazilimkalitetestdijikstra\bin\Debug\yazilimkalitetestdijikstra.exe.config
+c:\users\yyhas\onedrive\belgeler\visual studio 2013\Projects\yazilimkalitetestdijikstra\yazilimkalitetestdijikstra\bin\Debug\yazilimkalitetestdijikstra.exe
+c:\users\yyhas\onedrive\belgeler\visual studio 2013\Projects\yazilimkalitetestdijikstra\yazilimkalitetestdijikstra\bin\Debug\yazilimkalitetestdijikstra.pdb
+c:\users\yyhas\onedrive\belgeler\visual studio 2013\Projects\yazilimkalitetestdijikstra\yazilimkalitetestdijikstra\obj\Debug\yazilimkalitetestdijikstra.csprojResolveAssemblyReference.cache
+c:\users\yyhas\onedrive\belgeler\visual studio 2013\Projects\yazilimkalitetestdijikstra\yazilimkalitetestdijikstra\obj\Debug\yazilimkalitetestdijikstra.Form1.resources
+c:\users\yyhas\onedrive\belgeler\visual studio 2013\Projects\yazilimkalitetestdijikstra\yazilimkalitetestdijikstra\obj\Debug\yazilimkalitetestdijikstra.Properties.Resources.resources
+c:\users\yyhas\onedrive\belgeler\visual studio 2013\Projects\yazilimkalitetestdijikstra\yazilimkalitetestdijikstra\obj\Debug\yazilimkalitetestdijikstra.csproj.GenerateResource.Cache
+c:\users\yyhas\onedrive\belgeler\visual studio 2013\Projects\yazilimkalitetestdijikstra\yazilimkalitetestdijikstra\obj\Debug\yazilimkalitetestdijikstra.exe
+c:\users\yyhas\onedrive\belgeler\visual studio 2013\Projects\yazilimkalitetestdijikstra\yazilimkalitetestdijikstra\obj\Debug\yazilimkalitetestdijikstra.pdb
